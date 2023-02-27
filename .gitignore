@@ -28,3 +28,6 @@ denox-*.tar
 # PLT files
 /priv/plts/*.plt
 /priv/plts/*.plt.hash
+
+# Cargo things in the Rust part of this package
+priv/native/libdenox.so
